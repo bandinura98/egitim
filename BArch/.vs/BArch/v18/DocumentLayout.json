@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{3CAFB0B8-A708-4368-8340-6E3F5265A318}|Infratructure\\Infratructure.csproj|solutionrelative:infratructure\\models\\gaussiannb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3CAFB0B8-A708-4368-8340-6E3F5265A318}|Infratructure\\Infratructure.csproj|c:\\users\\batu31\\documents\\github\\egitim\\barch\\infratructure\\factory\\aimodelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAFB0B8-A708-4368-8340-6E3F5265A318}|Infratructure\\Infratructure.csproj|solutionrelative:infratructure\\factory\\aimodelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAFB0B8-A708-4368-8340-6E3F5265A318}|Infratructure\\Infratructure.csproj|c:\\users\\batu31\\documents\\github\\egitim\\barch\\infratructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAFB0B8-A708-4368-8340-6E3F5265A318}|Infratructure\\Infratructure.csproj|solutionrelative:infratructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|c:\\users\\batu31\\documents\\github\\egitim\\barch\\application\\common\\interfaces\\iaimodelchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\iaimodelchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,24 +23,12 @@
       "RelativeMoniker": "D:0:0:{3CAFB0B8-A708-4368-8340-6E3F5265A318}|Infratructure\\Infratructure.csproj|solutionrelative:infratructure\\infratructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CAFB0B8-A708-4368-8340-6E3F5265A318}|Infratructure\\Infratructure.csproj|c:\\users\\batu31\\documents\\github\\egitim\\barch\\infratructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CAFB0B8-A708-4368-8340-6E3F5265A318}|Infratructure\\Infratructure.csproj|solutionrelative:infratructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CAFB0B8-A708-4368-8340-6E3F5265A318}|Infratructure\\Infratructure.csproj|c:\\users\\batu31\\documents\\github\\egitim\\barch\\infratructure\\factory\\aimodelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CAFB0B8-A708-4368-8340-6E3F5265A318}|Infratructure\\Infratructure.csproj|solutionrelative:infratructure\\factory\\aimodelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|c:\\users\\batu31\\documents\\github\\egitim\\barch\\application\\common\\interfaces\\iaimodelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\iaimodelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|c:\\users\\batu31\\documents\\github\\egitim\\barch\\application\\features\\logs\\commands\\create\\createcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|solutionrelative:application\\features\\logs\\commands\\create\\createcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CAFB0B8-A708-4368-8340-6E3F5265A318}|Infratructure\\Infratructure.csproj|c:\\users\\batu31\\documents\\github\\egitim\\barch\\infratructure\\services\\aimodelchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CAFB0B8-A708-4368-8340-6E3F5265A318}|Infratructure\\Infratructure.csproj|solutionrelative:infratructure\\services\\aimodelchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|c:\\users\\batu31\\documents\\github\\egitim\\barch\\application\\common\\interfaces\\ilogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -76,14 +72,99 @@
               "RelativeDocumentMoniker": "Infratructure\\Models\\GaussianNB.cs",
               "ToolTip": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Infratructure\\Models\\GaussianNB.cs",
               "RelativeToolTip": "Infratructure\\Models\\GaussianNB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T11:44:55.674Z",
+              "WhenOpened": "2026-03-19T11:50:55.799Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Infratructure.csproj",
+              "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Infratructure\\Infratructure.csproj",
+              "RelativeDocumentMoniker": "Infratructure\\Infratructure.csproj",
+              "ToolTip": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Infratructure\\Infratructure.csproj",
+              "RelativeToolTip": "Infratructure\\Infratructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-19T11:37:15.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAIModelFactory.cs",
+              "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Application\\Common\\Interfaces\\IAIModelFactory.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IAIModelFactory.cs",
+              "ToolTip": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Application\\Common\\Interfaces\\IAIModelFactory.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\IAIModelFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:19:26.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAIModelChecker.cs",
+              "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Application\\Common\\Interfaces\\IAIModelChecker.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IAIModelChecker.cs",
+              "ToolTip": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Application\\Common\\Interfaces\\IAIModelChecker.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\IAIModelChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:17:25.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Application\\Common\\Interfaces\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IPasswordHasher.cs",
+              "ToolTip": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Application\\Common\\Interfaces\\IPasswordHasher.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\IPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:57:43.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ILogs.cs",
+              "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Application\\Common\\Interfaces\\ILogs.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\ILogs.cs",
+              "ToolTip": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Application\\Common\\Interfaces\\ILogs.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\ILogs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:57:23.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Infratructure\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Infratructure\\Services\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Infratructure\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "Infratructure\\Services\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:56:02.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Infratructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infratructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Infratructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Infratructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:27:22.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AIModelFactory.cs",
               "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Infratructure\\Factory\\AIModelFactory.cs",
               "RelativeDocumentMoniker": "Infratructure\\Factory\\AIModelFactory.cs",
@@ -96,111 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Infratructure",
-              "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Infratructure\\Infratructure.csproj",
-              "RelativeDocumentMoniker": "Infratructure\\Infratructure.csproj",
-              "ToolTip": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Infratructure\\Infratructure.csproj",
-              "RelativeToolTip": "Infratructure\\Infratructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-19T11:37:15.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IAIModelFactory.cs",
-              "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Application\\Common\\Interfaces\\IAIModelFactory.cs",
-              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IAIModelFactory.cs",
-              "ToolTip": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Application\\Common\\Interfaces\\IAIModelFactory.cs",
-              "RelativeToolTip": "Application\\Common\\Interfaces\\IAIModelFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T11:19:26.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IAIModelChecker.cs",
-              "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Application\\Common\\Interfaces\\IAIModelChecker.cs",
-              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IAIModelChecker.cs",
-              "ToolTip": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Application\\Common\\Interfaces\\IAIModelChecker.cs",
-              "RelativeToolTip": "Application\\Common\\Interfaces\\IAIModelChecker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T11:17:25.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IPasswordHasher.cs",
-              "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Application\\Common\\Interfaces\\IPasswordHasher.cs",
-              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IPasswordHasher.cs",
-              "ToolTip": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Application\\Common\\Interfaces\\IPasswordHasher.cs",
-              "RelativeToolTip": "Application\\Common\\Interfaces\\IPasswordHasher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T10:57:43.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ILogs.cs",
-              "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Application\\Common\\Interfaces\\ILogs.cs",
-              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\ILogs.cs",
-              "ToolTip": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Application\\Common\\Interfaces\\ILogs.cs",
-              "RelativeToolTip": "Application\\Common\\Interfaces\\ILogs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T10:57:23.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AIModelChecker.cs",
-              "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Infratructure\\Services\\AIModelChecker.cs",
-              "RelativeDocumentMoniker": "Infratructure\\Services\\AIModelChecker.cs",
-              "ToolTip": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Infratructure\\Services\\AIModelChecker.cs",
-              "RelativeToolTip": "Infratructure\\Services\\AIModelChecker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T10:56:04.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "PasswordHasher.cs",
-              "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Infratructure\\Services\\PasswordHasher.cs",
-              "RelativeDocumentMoniker": "Infratructure\\Services\\PasswordHasher.cs",
-              "ToolTip": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Infratructure\\Services\\PasswordHasher.cs",
-              "RelativeToolTip": "Infratructure\\Services\\PasswordHasher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T10:56:02.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Infratructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Infratructure\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Infratructure\\DependencyInjection.cs",
-              "RelativeToolTip": "Infratructure\\DependencyInjection.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T09:27:22.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "BaseAuditableEntity.cs",
               "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Domain\\Common\\BaseAuditableEntity.cs",
               "RelativeDocumentMoniker": "Domain\\Common\\BaseAuditableEntity.cs",
@@ -208,12 +185,11 @@
               "RelativeToolTip": "Domain\\Common\\BaseAuditableEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T09:26:55.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T09:26:55.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Logs.cs",
               "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Domain\\Entities\\Logs.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Logs.cs",
@@ -221,12 +197,11 @@
               "RelativeToolTip": "Domain\\Entities\\Logs.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T09:26:38.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T09:26:38.568Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "CreateUserCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Application\\Features\\Users\\Commands\\Create\\CreateUserCommandHandler.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\Create\\CreateUserCommandHandler.cs",
@@ -234,8 +209,7 @@
               "RelativeToolTip": "Application\\Features\\Users\\Commands\\Create\\CreateUserCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T09:22:01.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T09:22:01.535Z"
             },
             {
               "$type": "Document",
@@ -247,8 +221,7 @@
               "RelativeToolTip": "Application\\Features\\Logs\\Commands\\Create\\CreateCommandHandler.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAApwBEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T22:07:35.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T22:07:35.786Z"
             }
           ]
         }

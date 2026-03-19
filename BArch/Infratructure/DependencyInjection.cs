@@ -1,12 +1,13 @@
 ﻿using Infratructure.Data;
 using Infratructure.Data.Interceptors;
+using Infratructure.Factory;
+using Infratructure.Models;
 using Infratructure.Services;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Diagnostics;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.EntityFrameworkCore;
-using Infratructure.Factory;
 
 namespace Infratructure;
 public static class DependencyInjection
@@ -26,7 +27,7 @@ public static class DependencyInjection
 
         builder.Services.AddScoped<IPasswordHasher, PasswordHasher>();
 
-        builder.Services.AddScoped<IAIModelChecker, AIModelChecker>();//silinebilir
+        builder.Services.AddScoped<IAIModelChecker, GaussianNB>();
         builder.Services.AddScoped<IAIModelFactory, AIModelFactory>();
 
         builder.Services.AddSingleton(TimeProvider.System);
