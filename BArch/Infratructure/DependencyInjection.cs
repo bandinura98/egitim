@@ -6,6 +6,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
+using Infratructure.Factory;
 
 namespace Infratructure;
 public static class DependencyInjection
@@ -20,10 +21,13 @@ public static class DependencyInjection
         {
             options.AddInterceptors(sp.GetServices<ISaveChangesInterceptor>());
 
-            options.UseSqlServer(connectionString);
+            options.UseSqlite(connectionString);
         });
 
         builder.Services.AddScoped<IPasswordHasher, PasswordHasher>();
+
+        builder.Services.AddScoped<IAIModelChecker, AIModelChecker>();//silinebilir
+        builder.Services.AddScoped<IAIModelFactory, AIModelFactory>();
 
         builder.Services.AddSingleton(TimeProvider.System);
     }

@@ -6,5 +6,5 @@ public abstract class BaseAuditableEntity : BaseEntity
     public string CreatedBy { get; set; } = default!;
     public DateTimeOffset? LastModified { get; set; }
     public string? LastModifiedBy { get; set; }
-    public Status Status{ get; set; }
+    public Status? Status{ get; set; }
 }
