@@ -1,4 +1,5 @@
-﻿using Domain.Constants;
+﻿using Application.Common.Models;
+using Domain.Constants;
 using FluentValidation;
 
 namespace Application.Common.Behaviours;
@@ -27,15 +28,12 @@ public class ValidationBehaviour<TRequest, TResponse> : IPipelineBehavior<TReque
 
             if (failures.Any())
             {
-                // TResponse Response türüne cast edelim
                 var response = new Response(false,
                     string.Join(", ", failures.Select(f => f.ErrorMessage)),
                     Messages.User.NotCreated);
 
                 return (TResponse)(object)response;
             }
-            if (failures.Count != 0)
-                new Response(false, failures.ToString(), Messages.User.NotCreated);
         }
 
         return await next();

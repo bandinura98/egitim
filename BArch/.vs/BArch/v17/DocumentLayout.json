@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|c:\\users\\bsenoglu\\source\\repos\\egitim\\barch\\application\\common\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|solutionrelative:application\\common\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|c:\\users\\bsenoglu\\source\\repos\\egitim\\barch\\application\\common\\behaviours\\validationbehaviours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|solutionrelative:application\\common\\behaviours\\validationbehaviours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|c:\\users\\bsenoglu\\source\\repos\\egitim\\barch\\web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|solutionrelative:web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0732606B-C53F-44FF-BBF0-834B46323D62}|Domain\\Domain.csproj|c:\\users\\bsenoglu\\source\\repos\\egitim\\barch\\domain\\entities\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0732606B-C53F-44FF-BBF0-834B46323D62}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|c:\\users\\bsenoglu\\source\\repos\\egitim\\barch\\application\\features\\users\\commands\\create\\createusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,15 +46,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Response.cs",
-              "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Domain\\Entities\\Response.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Response.cs",
-              "ToolTip": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Domain\\Entities\\Response.cs",
-              "RelativeToolTip": "Domain\\Entities\\Response.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCMAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Application\\Common\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Models\\Response.cs",
+              "ToolTip": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Application\\Common\\Models\\Response.cs",
+              "RelativeToolTip": "Application\\Common\\Models\\Response.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T14:18:15.507Z",
+              "WhenOpened": "2026-03-23T14:23:54.791Z",
               "EditorCaption": ""
             },
             {
@@ -67,8 +67,7 @@
               "RelativeToolTip": "Application\\Features\\Users\\Commands\\Create\\CreateUserCommandValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T14:14:46.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-23T14:14:46.794Z"
             },
             {
               "$type": "Document",
@@ -80,25 +79,24 @@
               "RelativeToolTip": "Domain\\Constants\\Messages.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAASwBwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T14:06:51.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-23T14:06:51.254Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ValidationBehaviours.cs",
               "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Application\\Common\\Behaviours\\ValidationBehaviours.cs",
               "RelativeDocumentMoniker": "Application\\Common\\Behaviours\\ValidationBehaviours.cs",
               "ToolTip": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Application\\Common\\Behaviours\\ValidationBehaviours.cs",
               "RelativeToolTip": "Application\\Common\\Behaviours\\ValidationBehaviours.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-23T13:35:06.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CreateUserCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Application\\Features\\Users\\Commands\\Create\\CreateUserCommandHandler.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\Create\\CreateUserCommandHandler.cs",
@@ -106,12 +104,11 @@
               "RelativeToolTip": "Application\\Features\\Users\\Commands\\Create\\CreateUserCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T13:25:20.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-23T13:25:20.065Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CreateUserCommand.cs",
               "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Application\\Features\\Users\\Commands\\Create\\CreateUserCommand.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\Create\\CreateUserCommand.cs",
@@ -119,12 +116,11 @@
               "RelativeToolTip": "Application\\Features\\Users\\Commands\\Create\\CreateUserCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T13:23:08.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-23T13:23:08.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Web\\Controllers\\HomeController.cs",
@@ -132,8 +128,7 @@
               "RelativeToolTip": "Web\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T13:11:49.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-23T13:11:49.712Z"
             }
           ]
         }

@@ -1,4 +1,4 @@
-﻿namespace Domain.Entities;
+﻿namespace Application.Common.Models;
 
 /// <summary>
 /// Represents a standard response returned from an operation,
@@ -20,6 +20,12 @@ public class Response
     /// Gets or sets an informational message about the operation result.
     /// </summary>
     public static string? Message { get; set; }
+
+    /// <summary>
+    /// Gets or sets an informational message about the operation result.
+    /// </summary>
+    public static Object? Data { get; set; }
+
 
     /// <summary>
     /// Initializes a new instance of the <see cref="Response"/> class
