@@ -4,11 +4,14 @@ using Microsoft.EntityFrameworkCore;
 namespace Infratructure.Data;
 public class ApplicationDbContext : DbContext, IApplicationDbContext
 {
-    public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) { }
+    public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
+    {
+        Database.EnsureCreated();
+    }
 
     public DbSet<User> Users => Set<User>();
 
-    public DbSet<Logs> Logs => Set <Logs>();
+    public DbSet<Log> Logs => Set<Log>();
 
     protected override void OnModelCreating(ModelBuilder builder)
     {

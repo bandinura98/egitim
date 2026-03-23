@@ -10,4 +10,8 @@
     <ProjectReference Include="..\Infratructure\Infratructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+
 </Project>

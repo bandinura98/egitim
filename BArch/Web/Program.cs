@@ -1,4 +1,11 @@
+using Infratructure;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddHttpContextAccessor();
+
+builder.AddApplicationServices();
+builder.AddInfrastructureServices();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
