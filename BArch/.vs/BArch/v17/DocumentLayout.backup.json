@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\bsenoglu\\source\\repos\\BArch\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAFB0B8-A708-4368-8340-6E3F5265A318}|Infratructure\\Infratructure.csproj|c:\\users\\bsenoglu\\source\\repos\\barch\\infratructure\\data\\interceptors\\auditableentityinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAFB0B8-A708-4368-8340-6E3F5265A318}|Infratructure\\Infratructure.csproj|solutionrelative:infratructure\\data\\interceptors\\auditableentityinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAFB0B8-A708-4368-8340-6E3F5265A318}|Infratructure\\Infratructure.csproj|c:\\users\\bsenoglu\\source\\repos\\barch\\infratructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAFB0B8-A708-4368-8340-6E3F5265A318}|Infratructure\\Infratructure.csproj|solutionrelative:infratructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|c:\\users\\bsenoglu\\source\\repos\\barch\\application\\common\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\BArch\\Application\\Common\\Interfaces\\IUser.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IUser.cs",
+              "ToolTip": "C:\\Users\\bsenoglu\\source\\repos\\BArch\\Application\\Common\\Interfaces\\IUser.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\IUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T05:43:14.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuditableEntityInterceptor.cs",
+              "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\BArch\\Infratructure\\Data\\Interceptors\\AuditableEntityInterceptor.cs",
+              "RelativeDocumentMoniker": "Infratructure\\Data\\Interceptors\\AuditableEntityInterceptor.cs",
+              "ToolTip": "C:\\Users\\bsenoglu\\source\\repos\\BArch\\Infratructure\\Data\\Interceptors\\AuditableEntityInterceptor.cs",
+              "RelativeToolTip": "Infratructure\\Data\\Interceptors\\AuditableEntityInterceptor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T05:41:45.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\BArch\\Infratructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infratructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\bsenoglu\\source\\repos\\BArch\\Infratructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Infratructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T05:37:52.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bsenoglu\\source\\repos\\BArch\\",
+  "WorkspaceRootPath": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3CAFB0B8-A708-4368-8340-6E3F5265A318}|Infratructure\\Infratructure.csproj|c:\\users\\bsenoglu\\source\\repos\\barch\\infratructure\\data\\interceptors\\auditableentityinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CAFB0B8-A708-4368-8340-6E3F5265A318}|Infratructure\\Infratructure.csproj|solutionrelative:infratructure\\data\\interceptors\\auditableentityinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|c:\\users\\bsenoglu\\source\\repos\\egitim\\barch\\application\\features\\logs\\commands\\create\\createlogcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|solutionrelative:application\\features\\logs\\commands\\create\\createlogcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CAFB0B8-A708-4368-8340-6E3F5265A318}|Infratructure\\Infratructure.csproj|c:\\users\\bsenoglu\\source\\repos\\barch\\infratructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CAFB0B8-A708-4368-8340-6E3F5265A318}|Infratructure\\Infratructure.csproj|solutionrelative:infratructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|c:\\users\\bsenoglu\\source\\repos\\egitim\\barch\\application\\features\\users\\commands\\create\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|solutionrelative:application\\features\\users\\commands\\create\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|c:\\users\\bsenoglu\\source\\repos\\barch\\application\\common\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|c:\\users\\bsenoglu\\source\\repos\\egitim\\barch\\application\\common\\interfaces\\iaimodelchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\iaimodelchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IUser.cs",
-              "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\BArch\\Application\\Common\\Interfaces\\IUser.cs",
-              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IUser.cs",
-              "ToolTip": "C:\\Users\\bsenoglu\\source\\repos\\BArch\\Application\\Common\\Interfaces\\IUser.cs",
-              "RelativeToolTip": "Application\\Common\\Interfaces\\IUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Title": "IAIModelChecker.cs",
+              "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Application\\Common\\Interfaces\\IAIModelChecker.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IAIModelChecker.cs",
+              "ToolTip": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Application\\Common\\Interfaces\\IAIModelChecker.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\IAIModelChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T05:43:14.509Z",
+              "WhenOpened": "2026-03-23T06:55:00.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AuditableEntityInterceptor.cs",
-              "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\BArch\\Infratructure\\Data\\Interceptors\\AuditableEntityInterceptor.cs",
-              "RelativeDocumentMoniker": "Infratructure\\Data\\Interceptors\\AuditableEntityInterceptor.cs",
-              "ToolTip": "C:\\Users\\bsenoglu\\source\\repos\\BArch\\Infratructure\\Data\\Interceptors\\AuditableEntityInterceptor.cs",
-              "RelativeToolTip": "Infratructure\\Data\\Interceptors\\AuditableEntityInterceptor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBMAAAAAAAAAAAAAAA==",
+              "Title": "CreateLogCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Application\\Features\\Logs\\Commands\\Create\\CreateLogCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Logs\\Commands\\Create\\CreateLogCommandHandler.cs",
+              "ToolTip": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Application\\Features\\Logs\\Commands\\Create\\CreateLogCommandHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Logs\\Commands\\Create\\CreateLogCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T05:41:45.516Z",
+              "WhenOpened": "2026-03-23T06:54:21.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\BArch\\Infratructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Infratructure\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\bsenoglu\\source\\repos\\BArch\\Infratructure\\DependencyInjection.cs",
-              "RelativeToolTip": "Infratructure\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Title": "CreateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Application\\Features\\Users\\Commands\\Create\\CreateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\Create\\CreateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Application\\Features\\Users\\Commands\\Create\\CreateUserCommandHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Commands\\Create\\CreateUserCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T05:37:52.355Z",
+              "WhenOpened": "2026-03-23T06:54:10.789Z",
               "EditorCaption": ""
             }
           ]
