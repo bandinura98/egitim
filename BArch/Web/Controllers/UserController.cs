@@ -1,4 +1,5 @@
 ﻿using Application.Features.Users.Commands.Create;
+using Application.Features.Users.Commands.Update;
 using Application.Features.Users.Queries.GetAll;
 using Domain.Entities;
 using MediatR;
@@ -24,7 +25,13 @@ public class UserController(IMediator _mediator) : Controller
     {
         return View();
     }
-
+    [HttpGet]
+    public async Task<IActionResult> Update()
+    
+    {
+        ViewBag.UserList = await _mediator.Send(new GetAllUsersQuery());
+        return View();
+    }
     [HttpPost]
     public async Task<IActionResult> Create(User item)
     {
@@ -39,9 +46,10 @@ public class UserController(IMediator _mediator) : Controller
 
         return View();
     }
+    [HttpPost]
     public async Task<IActionResult> Update(User item)
     {
-        var response = await _mediator.Send(new CreateUserCommand(item));
+        var response = await _mediator.Send(new UpdateUserCommand(item));
 
         if (response._IsSuccess)
         {
