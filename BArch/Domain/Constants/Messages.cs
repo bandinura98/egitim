@@ -27,6 +27,28 @@ public static class Messages
         /// Message used when a user is  created.
         /// </summary>
         public const string Created = "User created.";
+        /// <summary>
+        /// Message used when a username contains empty space or special characters.
+        /// </summary>
+        public const string CantContainError = "Username can not contain special characters or empty spaces created.";
+        /// <summary>
+        /// Message used when a username is empty.
+        /// </summary>
+        public const string Empty = "Username can not be empty.";
+        /// <summary>
+        /// Message used when a userId is not guid.
+        /// </summary>
+        public const string FormatInconsistency = "UserID must be GUID.";
+        /// <summary>
+        /// Message used when a username is empty.
+        /// </summary>
+        public const string Getted = "Users getted succesfully.";
+        /// <summary>
+        /// Message used when a username minimum length.
+        /// </summary>
+        public static string MinimumLength(int x){
+            return "Username must contain minimum of " + x + " characters.";
+        }
     }
    
     /// <summary>

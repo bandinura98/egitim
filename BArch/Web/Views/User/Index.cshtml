@@ -1,0 +1,19 @@
+﻿@using Domain.Entities
+
+@{
+	ViewData["Title"] = "Index";
+
+	var userList = (List<User>)ViewBag.UserList;
+}
+
+<h1>Index</h1>
+
+<table>
+	@foreach (var item in userList)
+	{
+		<tr>
+			<td> @item.FullName </td>
+			<td> @item.Email</td>
+		</tr>
+	}
+</table>

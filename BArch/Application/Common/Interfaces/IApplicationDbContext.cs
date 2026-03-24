@@ -24,4 +24,5 @@ public interface IApplicationDbContext
     /// <param name="cancellationToken">A cancellation token to cancel the operation if needed.</param>
     /// <returns>The number of state entries written to the database.</returns>
     Task<int> SaveChangesAsync(CancellationToken cancellationToken);
+
 }

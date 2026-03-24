@@ -2,7 +2,7 @@
 /// <summary>
 /// Represents possible colors for logs to indicate severity or type.
 /// </summary>
-public enum LogColor
+public enum LogColor:byte
 {
     /// <summary>Indicates a critical.</summary>
     Red,

@@ -1,5 +1,4 @@
-﻿using Application.Common.Models;
-using Domain.Constants;
+﻿using Domain.Constants;
 using FluentValidation;
 
 namespace Application.Common.Behaviours;

@@ -24,9 +24,6 @@
     <Folder Include="Features\Logs\Queries\GetAll\" />
     <Folder Include="Features\Logs\Queries\GetAllById\" />
     <Folder Include="Features\Users\Commands\Delete\" />
-    <Folder Include="Features\Users\Commands\Update\" />
-    <Folder Include="Features\Users\Queries\GetById\" />
-    <Folder Include="Features\Users\Queries\GetAll\" />
   </ItemGroup>
 
 </Project>

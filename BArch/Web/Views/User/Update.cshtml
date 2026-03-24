@@ -1,0 +1,30 @@
+﻿@using Domain.Entities
+@model User
+@{
+	ViewData["Title"] = "Update";
+
+	var userList = (List<User>)ViewBag.UserList;
+
+	var errors = (string?)ViewBag.Errors;
+}
+<h1>Kullanıcı Editle</h1>
+
+@if (!string.IsNullOrEmpty(errors))
+{
+	<div class="alert alert-danger">@errors</div>
+}
+
+<table>
+	@foreach (var item in userList)
+	{
+		<form asp-action="Update" asp-controller="User" method="post">
+			<tr>
+				<td><input asp-for="FullName" type="text" value=@item.FullName /></td>
+				<td><input asp-for="UserName" type="text" value=@item.UserName /></td>
+				<td><input asp-for="Email" type="text" value=@item.Email /></td>
+			
+				<button type="submit" class="alert-danger">Gönder</button>
+			</tr>
+		</form>
+	}
+</table>

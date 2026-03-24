@@ -3,7 +3,7 @@
 /// <summary>
 /// Represents the status of a <see cref="Domain.Entities.User"/> entity.
 /// </summary>
-public enum Status
+public enum Status : byte
 {
     /// <summary>
     /// The user is active and can use the system.
