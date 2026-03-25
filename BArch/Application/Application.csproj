@@ -23,7 +23,6 @@
     <Folder Include="Features\Logs\Commands\Update\" />
     <Folder Include="Features\Logs\Queries\GetAll\" />
     <Folder Include="Features\Logs\Queries\GetAllById\" />
-    <Folder Include="Features\Users\Commands\Delete\" />
   </ItemGroup>
 
 </Project>

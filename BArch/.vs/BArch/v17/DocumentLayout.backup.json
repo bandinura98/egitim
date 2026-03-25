@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|c:\\users\\bsenoglu\\source\\repos\\egitim\\barch\\web\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|solutionrelative:web\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|c:\\users\\bsenoglu\\source\\repos\\egitim\\barch\\web\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|solutionrelative:web\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|c:\\users\\bsenoglu\\source\\repos\\egitim\\barch\\web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|solutionrelative:web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|c:\\users\\bsenoglu\\source\\repos\\egitim\\barch\\web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|solutionrelative:web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|c:\\users\\bsenoglu\\source\\repos\\egitim\\barch\\web\\views\\user\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|solutionrelative:web\\views\\user\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|c:\\users\\bsenoglu\\source\\repos\\egitim\\barch\\web\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|solutionrelative:web\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|c:\\users\\bsenoglu\\source\\repos\\egitim\\barch\\application\\features\\users\\commands\\delete\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|solutionrelative:application\\features\\users\\commands\\delete\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|c:\\users\\bsenoglu\\source\\repos\\egitim\\barch\\application\\features\\users\\commands\\delete\\deleteusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|solutionrelative:application\\features\\users\\commands\\delete\\deleteusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|c:\\users\\bsenoglu\\source\\repos\\egitim\\barch\\application\\features\\users\\commands\\update\\updateusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|solutionrelative:application\\features\\users\\commands\\update\\updateusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|c:\\users\\bsenoglu\\source\\repos\\egitim\\barch\\application\\features\\users\\commands\\update\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|solutionrelative:application\\features\\users\\commands\\update\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +54,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Web\\Views\\User\\Update.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\User\\Update.cshtml",
+              "ToolTip": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Web\\Views\\User\\Update.cshtml",
+              "RelativeToolTip": "Web\\Views\\User\\Update.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T14:12:17.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Web\\Views\\User\\Create.cshtml",
               "RelativeDocumentMoniker": "Web\\Views\\User\\Create.cshtml",
               "ToolTip": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Web\\Views\\User\\Create.cshtml",
               "RelativeToolTip": "Web\\Views\\User\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-24T13:34:25.238Z",
+              "WhenOpened": "2026-03-25T14:12:12.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Web\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\User\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Web\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "Web\\Views\\User\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T14:12:07.864Z",
               "EditorCaption": ""
             },
             {
@@ -45,9 +99,74 @@
               "RelativeDocumentMoniker": "Web\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Web\\Controllers\\UserController.cs",
               "RelativeToolTip": "Web\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwDkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T13:21:02.267Z",
+              "WhenOpened": "2026-03-25T14:11:25.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteUserCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Application\\Features\\Users\\Commands\\Delete\\DeleteUserCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\Delete\\DeleteUserCommandValidator.cs",
+              "ToolTip": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Application\\Features\\Users\\Commands\\Delete\\DeleteUserCommandValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Commands\\Delete\\DeleteUserCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T14:10:10.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateUserCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Application\\Features\\Users\\Commands\\Update\\UpdateUserCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\Update\\UpdateUserCommandValidator.cs",
+              "ToolTip": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Application\\Features\\Users\\Commands\\Update\\UpdateUserCommandValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Commands\\Update\\UpdateUserCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T14:09:56.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Application\\Features\\Users\\Commands\\Update\\UpdateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\Update\\UpdateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Application\\Features\\Users\\Commands\\Update\\UpdateUserCommandHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Commands\\Update\\UpdateUserCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T14:09:50.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Application\\Features\\Users\\Commands\\Delete\\DeleteUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\Delete\\DeleteUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Application\\Features\\Users\\Commands\\Delete\\DeleteUserCommandHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Commands\\Delete\\DeleteUserCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T14:09:47.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T14:09:41.595Z",
               "EditorCaption": ""
             }
           ]

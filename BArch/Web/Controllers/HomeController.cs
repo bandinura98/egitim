@@ -5,12 +5,10 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Web.Controllers;
 
-public class HomeController(ISender _mediator) : Controller
+public class HomeController() : Controller
 {
-    public async Task<IActionResult> Index()
+    public IActionResult Index()
     {
-
-
         return View();
     }
 }

@@ -21,6 +21,7 @@
 	{
 		<form asp-action="Update" asp-controller="User" method="post">
 			<tr>
+				<td><input asp-for="Id" type="hidden" value=@item.Id/></td>
 				<td><input asp-for="FullName" type="text" value=@item.FullName /></td>
 				<td><input asp-for="UserName" type="text" value=@item.UserName /></td>
 				<td><input asp-for="Email" type="text" value=@item.Email /></td>

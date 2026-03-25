@@ -4,8 +4,8 @@ public class CreateUserCommandHandler(IApplicationDbContext _context, IPasswordH
 {
     public async Task<Response> Handle(CreateUserCommand request, CancellationToken cancellationToken)
     {
-        try { 
-
+        try {
+            request.User.PasswordHash = _passwordHasher.Hash(request.User.PasswordHash);
             _context.Users.Add(request.User);
             var saved = await _context.SaveChangesAsync(cancellationToken);
 

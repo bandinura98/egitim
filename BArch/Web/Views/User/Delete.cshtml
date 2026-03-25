@@ -1,0 +1,44 @@
+﻿@using Application.Common.Models
+@using Domain.Entities
+@model User
+@{
+	ViewData["Title"] = "Update";
+
+	var userList = ((Response<List<User>>)ViewBag.UserList)._Data;
+
+	var errors = (string?)ViewBag.Errors;
+}
+<h1>Kullanıcı Editle</h1>
+
+@if (!string.IsNullOrEmpty(errors))
+{
+	<div class="alert alert-danger">@errors</div>
+}
+
+<table>
+	@if (userList == null) return;
+	@foreach (var item in userList)
+	{
+		<form asp-action="Delete" asp-controller="User" method="post">
+		<tr>
+			<td><input asp-for="Id" type="hidden" value=@item.Id /></td>
+			<td>
+					@item.FullName
+				<input type="hidden" name="Email" value="@item.FullName" />
+			</td>
+			<td>
+					@item.UserName
+				<input type="hidden" name="Email" value="@item.UserName" />
+			</td>
+			<td>
+					@item.Email
+				<input type="hidden" name="Email" value="@item.Email" />
+			</td>
+
+			<td>
+				<button type="submit" class="btn btn-danger">SİL</button>
+			</td>
+		</tr>
+		</form>
+	}
+</table>
