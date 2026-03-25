@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|c:\\users\\batu31\\documents\\github\\egitim\\barch\\application\\features\\users\\commands\\update\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|solutionrelative:application\\features\\users\\commands\\update\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|c:\\users\\batu31\\documents\\github\\egitim\\barch\\web\\views\\shared\\_loginsignuplayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|solutionrelative:web\\views\\shared\\_loginsignuplayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|c:\\users\\batu31\\documents\\github\\egitim\\barch\\application\\features\\users\\commands\\update\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|solutionrelative:application\\features\\users\\commands\\update\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|c:\\users\\batu31\\documents\\github\\egitim\\barch\\web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|solutionrelative:web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|c:\\users\\batu31\\documents\\github\\egitim\\barch\\application\\features\\users\\commands\\create\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|solutionrelative:application\\features\\users\\commands\\create\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|c:\\users\\batu31\\documents\\github\\egitim\\barch\\web\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|solutionrelative:web\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|c:\\users\\batu31\\documents\\github\\egitim\\barch\\application\\features\\users\\commands\\update\\updateusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AEDA47C-0807-4F0A-8068-3E00F0FD6F7D}|Application\\Application.csproj|solutionrelative:application\\features\\users\\commands\\update\\updateusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|c:\\users\\batu31\\documents\\github\\egitim\\barch\\web\\controllers\\landingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|solutionrelative:web\\controllers\\landingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|c:\\users\\batu31\\documents\\github\\egitim\\barch\\web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|solutionrelative:web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|c:\\users\\batu31\\documents\\github\\egitim\\barch\\web\\views\\user\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|solutionrelative:web\\views\\user\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|c:\\users\\batu31\\documents\\github\\egitim\\barch\\web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|solutionrelative:web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|c:\\users\\batu31\\documents\\github\\egitim\\barch\\web\\views\\landing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|solutionrelative:web\\views\\landing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CreateUserCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Application\\Features\\Users\\Commands\\Create\\CreateUserCommandHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\Create\\CreateUserCommandHandler.cs",
-              "ToolTip": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Application\\Features\\Users\\Commands\\Create\\CreateUserCommandHandler.cs",
-              "RelativeToolTip": "Application\\Features\\Users\\Commands\\Create\\CreateUserCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T22:01:07.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UpdateUserCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Application\\Features\\Users\\Commands\\Update\\UpdateUserCommandHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\Update\\UpdateUserCommandHandler.cs",
-              "ToolTip": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Application\\Features\\Users\\Commands\\Update\\UpdateUserCommandHandler.cs",
-              "RelativeToolTip": "Application\\Features\\Users\\Commands\\Update\\UpdateUserCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T22:01:05.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UpdateUserCommandValidator.cs",
-              "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Application\\Features\\Users\\Commands\\Update\\UpdateUserCommandValidator.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\Update\\UpdateUserCommandValidator.cs",
-              "ToolTip": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Application\\Features\\Users\\Commands\\Update\\UpdateUserCommandValidator.cs",
-              "RelativeToolTip": "Application\\Features\\Users\\Commands\\Update\\UpdateUserCommandValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T22:00:46.669Z",
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Web\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "Web\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Web\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "Web\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-25T18:52:22.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UpdateUserCommand.cs",
-              "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Application\\Features\\Users\\Commands\\Update\\UpdateUserCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\Update\\UpdateUserCommand.cs",
-              "ToolTip": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Application\\Features\\Users\\Commands\\Update\\UpdateUserCommand.cs",
-              "RelativeToolTip": "Application\\Features\\Users\\Commands\\Update\\UpdateUserCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T22:00:36.015Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T18:47:13.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Web\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "_LoginSignupLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Web\\Views\\Shared\\_LoginSignupLayout.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Shared\\_LoginSignupLayout.cshtml",
+              "ToolTip": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Web\\Views\\Shared\\_LoginSignupLayout.cshtml",
+              "RelativeToolTip": "Web\\Views\\Shared\\_LoginSignupLayout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T18:43:24.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LandingController.cs",
+              "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Web\\Controllers\\LandingController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\LandingController.cs",
+              "ToolTip": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Web\\Controllers\\LandingController.cs",
+              "RelativeToolTip": "Web\\Controllers\\LandingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T21:55:46.764Z",
+              "WhenOpened": "2026-03-25T18:40:10.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Web\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Web\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Web\\Controllers\\UserController.cs*",
-              "RelativeToolTip": "Web\\Controllers\\UserController.cs*",
-              "ViewState": "AgIAACcAAAAAAAAAAAAawDMAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T21:03:30.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Web\\Views\\User\\Update.cshtml",
-              "RelativeDocumentMoniker": "Web\\Views\\User\\Update.cshtml",
-              "ToolTip": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Web\\Views\\User\\Update.cshtml",
-              "RelativeToolTip": "Web\\Views\\User\\Update.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Web\\Views\\Landing\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Landing\\Index.cshtml",
+              "ToolTip": "C:\\Users\\batu31\\Documents\\GitHub\\egitim\\BArch\\Web\\Views\\Landing\\Index.cshtml",
+              "RelativeToolTip": "Web\\Views\\Landing\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwC0AAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-24T20:54:17.075Z",
+              "WhenOpened": "2026-03-25T18:38:13.315Z",
               "EditorCaption": ""
             }
           ]
