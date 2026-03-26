@@ -54,10 +54,6 @@
                             </div>
 
 
-                            <div class="form-floating mb-4">
-                                <input type="password" class="form-control" id="signInPassword" placeholder="Password">
-                                <label for="signInPassword">Password</label>
-                            </div>
                             <div class="d-flex align-items-center justify-content-between mb-4">
                                 <div class="form-check">
                                     <input type="checkbox" class="form-check-input" id="rememberMe">
@@ -78,19 +74,28 @@
                             </h3>
                             <h5>Create Account</h5>
                         </div>
-                        <div class="form-floating mb-3">
-                            <input type="text" class="form-control" id="signUpUser" placeholder="username">
-                            <label for="signUpUser">Username</label>
-                        </div>
-                        <div class="form-floating mb-3">
-                            <input type="email" class="form-control" id="signUpEmail" placeholder="name@example.com">
-                            <label for="signUpEmail">Email address</label>
-                        </div>
-                        <div class="form-floating mb-4">
-                            <input type="password" class="form-control" id="signUpPassword" placeholder="Password">
-                            <label for="signUpPassword">Password</label>
-                        </div>
-                        <button type="submit" class="btn btn-outline-primary py-3 w-100">Sign Up</button>
+                                                
+                        <form asp-action="SignIn" asp-controller="Landing" method="post">
+
+                            <div class="form-floating mb-3">
+                                <input asp-for="UserName" type="text" class="form-control" placeholder="nickname" />
+                                <label>Nick</label>
+                            </div>
+                            <div class="form-floating mb-3">
+                                <input asp-for="FullName" type="text" class="form-control" placeholder="Murtaza Balamir" />
+                                <label>Full Name</label>
+                            </div>
+                            <div class="form-floating mb-3">
+                                <input asp-for="Email" type="text" class="form-control" placeholder="name@example.com" />
+                                <label>Email</label>
+                            </div>
+                            <div class="form-floating mb-3">
+                                <input asp-for="PasswordHash" type="text" class="form-control" placeholder="name@example.com" />
+                                <label>PasswordHash</label>
+                            </div>
+                            
+                            <button type="submit" class="btn btn-outline-primary py-3 w-100">Sign Up</button>
+                        </form>
                         <p class="text-center mt-3 mb-0 small text-muted">By signing up, you agree to our terms.</p>
                     </div>
                 </div>
