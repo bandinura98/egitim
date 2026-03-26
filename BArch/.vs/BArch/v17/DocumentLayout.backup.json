@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|c:\\users\\bsenoglu\\source\\repos\\egitim\\barch\\web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|solutionrelative:web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|c:\\users\\bsenoglu\\source\\repos\\egitim\\barch\\web\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E26C20BC-9A16-4E60-8E46-99EDAA8A16CB}|Web\\Web.csproj|solutionrelative:web\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +58,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T14:18:49.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Web\\Views\\User\\Update.cshtml",
               "RelativeDocumentMoniker": "Web\\Views\\User\\Update.cshtml",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Web\\Views\\User\\Create.cshtml",
               "RelativeDocumentMoniker": "Web\\Views\\User\\Create.cshtml",
@@ -80,20 +97,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Web\\Views\\User\\Delete.cshtml",
               "RelativeDocumentMoniker": "Web\\Views\\User\\Delete.cshtml",
               "ToolTip": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Web\\Views\\User\\Delete.cshtml",
               "RelativeToolTip": "Web\\Views\\User\\Delete.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-25T14:12:07.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Web\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Web\\Controllers\\UserController.cs",
@@ -106,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "DeleteUserCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Application\\Features\\Users\\Commands\\Delete\\DeleteUserCommandValidator.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\Delete\\DeleteUserCommandValidator.cs",
@@ -119,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "UpdateUserCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Application\\Features\\Users\\Commands\\Update\\UpdateUserCommandValidator.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\Update\\UpdateUserCommandValidator.cs",
@@ -132,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "UpdateUserCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Application\\Features\\Users\\Commands\\Update\\UpdateUserCommandHandler.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\Update\\UpdateUserCommandHandler.cs",
@@ -145,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DeleteUserCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Application\\Features\\Users\\Commands\\Delete\\DeleteUserCommandHandler.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\Delete\\DeleteUserCommandHandler.cs",
@@ -158,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\bsenoglu\\source\\repos\\egitim\\BArch\\Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Web\\Controllers\\HomeController.cs",
